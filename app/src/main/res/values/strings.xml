@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KhataBook</string>
+    <string name="image">image</string>
+    <string name="enter">Enter</string>
+    <string name="write">Write</string>
+    <string name="save">Save</string>
+</resources>
